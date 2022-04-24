@@ -1,0 +1,5 @@
+project: biscuit
+target: fuzz_signature_validation
+
+cmds:
+  - cmd: /fuzz_signature_validation

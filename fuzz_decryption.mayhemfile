@@ -1,0 +1,5 @@
+project: biscuit
+target: fuzz_decryption
+
+cmds:
+  - cmd: /fuzz_decryption

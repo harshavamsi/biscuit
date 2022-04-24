@@ -39,3 +39,4 @@ serde_test = "1.0"
 [features]
 # Treat warnings as a build error.
 strict = []
+
